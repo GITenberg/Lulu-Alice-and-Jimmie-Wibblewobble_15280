@@ -1,0 +1,40 @@
+_repo: Lulu-Alice-and-Jimmie-Wibblewobble_15280
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wisa, Louis
+    gutenberg_agent_id: '8138'
+    url: http://www.gutenberg.org/2009/agents/8138
+covers:
+- cover_type: archival
+  image_path: 15280-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: Once upon a time, not so very many years ago, there lived three ducks
+  in a duck pen. And this pen was not far from where Sammie and Susie Littletail,
+  the rabbit children, had their burrow, and it was close to the trees where Johnnie
+  and Billie Bushytail, the squirrel brothers, learned to jump from their nest. Now
+  I am going to tell you some stories about these ducks, and what they did. To begin
+  with there was the mamma duck.
+gutenberg_issued: '2005-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Ducks -- Juvenile fiction'
+title: Lulu, Alice and Jimmie Wibblewobble
+url: http://www.gutenberg.org/ebooks/15280
